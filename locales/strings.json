@@ -1,0 +1,5 @@
+{
+  "welcome_message": "¡Bienvenido a la aplicación, {username}!",
+  "upload_status": "Archivo %d de %d subido con éxito.",
+  "connection_error": "Error: No se pudo conectar al servidor."
+}
